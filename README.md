@@ -1,4 +1,4 @@
-[16-Bit Multi-Cycle CPU Design
+16-Bit Multi-Cycle CPU Design
 A 16-bit Arithmetic Logic Unit (ALU) implemented in Verilog and simulated using Vivado xsim. Designed for a Digital System Design course at the University of Houston–Clear Lake.
 Overview
 The ALU operates in two modes selected by a mode bit, supporting 16 logic operations, 4 arithmetic operations, and 4 shift/rotate operations on 16-bit operands.
@@ -14,4 +14,4 @@ FileDescriptionalu.vTop-level ALU modulelogic_unit.vBitwise logic operationsarit
 Tools
 
 Verilog HDL
-Xilinx Vivado (simulation via xsim)]
+Xilinx Vivado (simulation via xsim)
