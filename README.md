@@ -47,3 +47,7 @@ The ALU operates in two modes selected by a `mode` bit, supporting 8 logic opera
 
 - Verilog HDL
 - Xilinx Vivado (simulation via xsim)
+
+## Simulation Results
+
+![ALU Waveform](waveform.png)
